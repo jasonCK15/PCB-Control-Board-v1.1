@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=5V5 Pin=R17_1-2
+Removed Pin From Net: NetName=5V5 Pin=R17_2-2
+Removed Pin From Net: NetName=5V5 Pin=R17_3-2
+Removed Pin From Net: NetName=5V5 Pin=R17_4-2
+Removed Pin From Net: NetName=5V5 Pin=R17_5-2
+Removed Pin From Net: NetName=5V5 Pin=R17_6-2
+Removed Pin From Net: NetName=5V5 Pin=R17_7-2
+Removed Pin From Net: NetName=5V5 Pin=R17_8-2
+Removed Member From Class: ClassName=U_LDO1 Member=R17_1
+Removed Member From Class: ClassName=U_LDO2 Member=R17_2
+Removed Member From Class: ClassName=U_LDO3 Member=R17_3
+Removed Member From Class: ClassName=U_LDO4 Member=R17_4
+Removed Member From Class: ClassName=U_LDO5 Member=R17_5
+Removed Member From Class: ClassName=U_LDO6 Member=R17_6
+Removed Member From Class: ClassName=U_LDO7 Member=R17_7
+Removed Member From Class: ClassName=U_LDO8 Member=R17_8
+Added Pin To Net: NetName=GND_1 Pin=PS1_1-1
+Added Pin To Net: NetName=GND_1 Pin=PS1_2-1
+Added Pin To Net: NetName=GND_1 Pin=PS1_3-1
+Added Pin To Net: NetName=GND_1 Pin=PS1_4-1
+Added Pin To Net: NetName=GND_1 Pin=PS1_5-1
+Added Pin To Net: NetName=GND_1 Pin=PS1_6-1
+Added Pin To Net: NetName=GND_1 Pin=PS1_7-1
+Added Pin To Net: NetName=GND_1 Pin=PS1_8-1
+Added Member To Class: ClassName=FPGA_board_controller_sheet Member=Component S1 AC6045 Core Board Socket

@@ -1,0 +1,15 @@
+Removed Member From Class: ClassName=FPGA_board_controller_sheet Member=*?
+Removed Member From Class: ClassName=FPGA_board_controller_sheet Member=*
+Change Component Designator: OldDesignator=Con NewDesignator=6-10 VDC
+Added Component: Designator=M1(fiducial mark)
+Added Component: Designator=M2(fiducial mark)
+Added Component: Designator=M3(fiducial mark)
+Added Component: Designator=M4(fiducial mark)
+Added Component: Designator=M5(fiducial mark)
+Added Component: Designator=M6(fiducial mark)
+Added Member To Class: ClassName=U_Power_Conversion_sheet Member=Component M1 Fiducial Mark
+Added Member To Class: ClassName=U_Power_Conversion_sheet Member=Component M2 Fiducial Mark
+Added Member To Class: ClassName=U_Power_Conversion_sheet Member=Component M3 Fiducial Mark
+Added Member To Class: ClassName=U_Power_Conversion_sheet Member=Component M4 Fiducial Mark
+Added Member To Class: ClassName=U_Power_Conversion_sheet Member=Component M5 Fiducial Mark
+Added Member To Class: ClassName=U_Power_Conversion_sheet Member=Component M6 Fiducial Mark

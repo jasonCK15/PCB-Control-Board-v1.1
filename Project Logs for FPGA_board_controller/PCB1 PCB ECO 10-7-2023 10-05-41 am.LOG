@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=5V5 Pin=S1-1
+Removed Pin From Net: NetName=5V5 Pin=S1-2
+Removed Pin From Net: NetName=5V5 Pin=S1-3
+Removed Pin From Net: NetName=5V5 Pin=S1-4
+Removed Pin From Net: NetName=5V5 Pin=S1-101
+Removed Pin From Net: NetName=5V5 Pin=S1-102
+Removed Pin From Net: NetName=5V5 Pin=S1-103
+Removed Pin From Net: NetName=5V5 Pin=S1-104
+Change Component Designator: OldDesignator=6-10 VDC NewDesignator=Con
+Added Component: Designator=Con?(XH2.54-2pin)
+Added Pin To Net: NetName=5V5 Pin=Con?-1
+Added Pin To Net: NetName=FPGA_5V Pin=Con?-2
+Added Pin To Net: NetName=FPGA_5V Pin=S1-1
+Added Pin To Net: NetName=FPGA_5V Pin=S1-2
+Added Pin To Net: NetName=FPGA_5V Pin=S1-3
+Added Pin To Net: NetName=FPGA_5V Pin=S1-4
+Added Pin To Net: NetName=FPGA_5V Pin=S1-101
+Added Pin To Net: NetName=FPGA_5V Pin=S1-102
+Added Pin To Net: NetName=FPGA_5V Pin=S1-103
+Added Pin To Net: NetName=FPGA_5V Pin=S1-104
+Added Net: Name=FPGA_5V
+Added Member To Class: ClassName=FPGA_board_controller_sheet Member=Component Con? 2Pin

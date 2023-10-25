@@ -1,0 +1,7 @@
+Change Component Comment : Designator=C24 Old Comment=* New Comment=100uF
+Change Component Comment : Designator=C25 Old Comment=* New Comment=100uF
+Change Component Designator: OldDesignator=6-10 VDC NewDesignator=Con
+Change component parameters: Designator = "C24" ("C24"); Footprint = "C1206"; UniqueID = "\SVSKDIUA\PZMFJJPN" ("\SVSKDIUA\PZMFJJPN")
+Change component parameters (AddParameter): Name = "value"; Value = "100uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C25" ("C25"); Footprint = "C1206"; UniqueID = "\SVSKDIUA\CUSBKCDE" ("\SVSKDIUA\CUSBKCDE")
+Change component parameters (AddParameter): Name = "value"; Value = "100uF"; VariantName = "[No Variations]"

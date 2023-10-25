@@ -1,0 +1,5 @@
+Layer Pairs Export File for PCB: C:\Users\SKLTMW-OP7000\Desktop\PCB\FPGA PCB 10 July 2023 1532\PCB1.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=pcb1-roundholes-plated.txt|DrillLayers=gtl,g1,g2,gbl
+LayersSetName=Top_Bot_Plated_Slot_Holes|DrillFile=pcb1-slotholes-plated.txt|DrillLayers=gtl,g1,g2,gbl
+LayersSetName=Top_Signal_top_Blind_Vias|DrillFile=pcb1-roundholes-plated.tx1|DrillLayers=gtl,g1
+LayersSetName=Signal_bottom_Bot_Blind_Vias|DrillFile=pcb1-roundholes-plated.tx2|DrillLayers=g2,gbl

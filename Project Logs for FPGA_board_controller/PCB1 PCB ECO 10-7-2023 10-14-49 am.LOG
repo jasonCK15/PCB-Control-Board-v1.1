@@ -1,0 +1,4 @@
+Added Component: Designator=Con8(XH2.54-2pin)
+Added Pin To Net: NetName=5V5 Pin=Con8-1
+Added Pin To Net: NetName=FPGA_5V Pin=Con8-2
+Added Member To Class: ClassName=FPGA_board_controller_sheet Member=Component Con8 2Pin

@@ -1,0 +1,14 @@
+Added Component: Designator=Con1(SMA (3.5mm))
+Added Component: Designator=Con2(SMA (3.5mm))
+Added Pin To Net: NetName=SMA1-1 Pin=Con1-1
+Added Pin To Net: NetName=GND_1 Pin=Con1-2
+Added Pin To Net: NetName=GND_1 Pin=Con1-2
+Added Pin To Net: NetName=GND_1 Pin=Con1-2
+Added Pin To Net: NetName=GND_1 Pin=Con1-2
+Added Pin To Net: NetName=SMA1-1 Pin=Con2-1
+Added Pin To Net: NetName=GND_1 Pin=Con2-2
+Added Pin To Net: NetName=GND_1 Pin=Con2-2
+Added Pin To Net: NetName=GND_1 Pin=Con2-2
+Added Pin To Net: NetName=GND_1 Pin=Con2-2
+Added Member To Class: ClassName=FPGA_board_controller_sheet Member=Component Con1 SMA
+Added Member To Class: ClassName=FPGA_board_controller_sheet Member=Component Con2 SMA

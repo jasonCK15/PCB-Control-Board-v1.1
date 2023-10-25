@@ -1,0 +1,5 @@
+Change Component Designator: OldDesignator=6-10 VDC NewDesignator=Con
+Added Component: Designator=*?(fiducial mark)
+Added Component: Designator=*(fiducial mark)
+Added Member To Class: ClassName=FPGA_board_controller_sheet Member=Component *? Fiducial Mark
+Added Member To Class: ClassName=FPGA_board_controller_sheet Member=Component * Fiducial Mark

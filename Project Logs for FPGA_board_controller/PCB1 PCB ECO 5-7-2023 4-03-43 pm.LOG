@@ -1,0 +1,60 @@
+Removed Pin From Net: NetName=5V5 Pin=C3-2
+Removed Pin From Net: NetName=5V5 Pin=C5-2
+Removed Pin From Net: NetName=5V5 Pin=C6-2
+Removed Pin From Net: NetName=5V5 Pin=IC1-10
+Removed Pin From Net: NetName=5V5 Pin=L1-2
+Removed Pin From Net: NetName=5V5 Pin=R7-2
+Removed Pin From Net: NetName=5V5 Pin=S1-1
+Removed Pin From Net: NetName=5V5 Pin=S1-2
+Removed Pin From Net: NetName=5V5 Pin=S1-3
+Removed Pin From Net: NetName=5V5 Pin=S1-4
+Removed Pin From Net: NetName=5V5 Pin=S1-101
+Removed Pin From Net: NetName=5V5 Pin=S1-102
+Removed Pin From Net: NetName=5V5 Pin=S1-103
+Removed Pin From Net: NetName=5V5 Pin=S1-104
+Added Component: Designator=C?(C0603)
+Add component (AddParameter): Name = "value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=IC?(TCKE812NARF)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "TCKE812NA,RF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/tcke812narf/toshiba"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.arrow.com/en/products/tcke812narf/toshiba"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.75mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Toshiba"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TCKE812NA,RF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "757-TCKE812NA,RF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Toshiba/TCKE812NARF?qs=7MVldsJ5UazIz%2F5VEH%2F60g%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND_1 Pin=C?-1
+Added Pin To Net: NetName=5V5 Pin=IC?-6
+Added Pin To Net: NetName=5V5 Pin=IC?-7
+Added Pin To Net: NetName=5V5 Pin=IC?-8
+Added Pin To Net: NetName=GND_1 Pin=IC?-11
+Added Pin To Net: NetName=GND_1 Pin=IC?-12
+Added Pin To Net: NetName=GND_1 Pin=IC?-13
+Added Pin To Net: NetName=GND_1 Pin=IC?-14
+Added Pin To Net: NetName=GND_1 Pin=IC?-15
+Change Net Name : Old Net Name=5V5 New Net Name=+5
+Added Pin To Net: NetName=5V5 Pin=C3-2
+Added Pin To Net: NetName=5V5 Pin=C5-2
+Added Pin To Net: NetName=5V5 Pin=C6-2
+Added Pin To Net: NetName=5V5 Pin=IC1-10
+Added Pin To Net: NetName=5V5 Pin=IC?-2
+Added Pin To Net: NetName=5V5 Pin=IC?-3
+Added Pin To Net: NetName=5V5 Pin=IC?-4
+Added Pin To Net: NetName=5V5 Pin=IC?-5
+Added Pin To Net: NetName=5V5 Pin=L1-2
+Added Pin To Net: NetName=5V5 Pin=R7-2
+Added Pin To Net: NetName=5V5 Pin=S1-1
+Added Pin To Net: NetName=5V5 Pin=S1-2
+Added Pin To Net: NetName=5V5 Pin=S1-3
+Added Pin To Net: NetName=5V5 Pin=S1-4
+Added Pin To Net: NetName=5V5 Pin=S1-101
+Added Pin To Net: NetName=5V5 Pin=S1-102
+Added Pin To Net: NetName=5V5 Pin=S1-103
+Added Pin To Net: NetName=5V5 Pin=S1-104
+Added Net: Name=5V5
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=IC?-1
+Added Net: Name=NetC?_2
+Added Member To Class: ClassName=U_Power_Conversion_sheet Member=Component C? *
+Added Member To Class: ClassName=U_Power_Conversion_sheet Member=Component IC? TCKE812NA,RF
+Added Member To Class: ClassName=FPGA_board_controller_sheet Member=Component S1 AC6045 Core Board Socket

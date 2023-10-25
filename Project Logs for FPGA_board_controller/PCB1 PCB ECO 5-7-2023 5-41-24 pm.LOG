@@ -1,0 +1,66 @@
+Change Component Designator: OldDesignator=C? NewDesignator=C18
+Change Component Designator: OldDesignator=IC? NewDesignator=IC3
+Added Component: Designator=C19(C0603)
+Add component (AddParameter): Name = "value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C20(C0603)
+Add component (AddParameter): Name = "value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C21(C0603)
+Add component (AddParameter): Name = "value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C22(C0603)
+Add component (AddParameter): Name = "value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C23(C0603)
+Add component (AddParameter): Name = "value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=IC4(TCKE812NARF)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "TCKE812NA,RF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/tcke812narf/toshiba"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.arrow.com/en/products/tcke812narf/toshiba"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.75mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Toshiba"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TCKE812NA,RF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "757-TCKE812NA,RF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Toshiba/TCKE812NARF?qs=7MVldsJ5UazIz%2F5VEH%2F60g%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R17(R0603)
+Add component (AddParameter): Name = "value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R20(R0603)
+Add component (AddParameter): Name = "value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND_1 Pin=C19-1
+Added Pin To Net: NetName=GND_1 Pin=C20-1
+Added Pin To Net: NetName=5V5 Pin=C20-2
+Added Pin To Net: NetName=GND_1 Pin=C21-1
+Added Pin To Net: NetName=5V5 Pin=C21-2
+Added Pin To Net: NetName=GND_1 Pin=C22-1
+Added Pin To Net: NetName=+5 Pin=C22-2
+Added Pin To Net: NetName=GND_1 Pin=C23-1
+Added Pin To Net: NetName=+5 Pin=C23-2
+Added Pin To Net: NetName=5V5 Pin=IC4-2
+Added Pin To Net: NetName=5V5 Pin=IC4-3
+Added Pin To Net: NetName=5V5 Pin=IC4-4
+Added Pin To Net: NetName=5V5 Pin=IC4-5
+Added Pin To Net: NetName=+5 Pin=IC4-6
+Added Pin To Net: NetName=+5 Pin=IC4-7
+Added Pin To Net: NetName=+5 Pin=IC4-8
+Added Pin To Net: NetName=GND_1 Pin=IC4-11
+Added Pin To Net: NetName=GND_1 Pin=IC4-12
+Added Pin To Net: NetName=GND_1 Pin=IC4-13
+Added Pin To Net: NetName=GND_1 Pin=IC4-14
+Added Pin To Net: NetName=GND_1 Pin=IC4-15
+Added Pin To Net: NetName=GND_1 Pin=R17-1
+Added Pin To Net: NetName=GND_1 Pin=R20-1
+Change Net Name : Old Net Name=NetC?_2 New Net Name=NetC18_2
+Added Pin To Net: NetName=NetC19_2 Pin=C19-2
+Added Pin To Net: NetName=NetC19_2 Pin=IC4-1
+Added Net: Name=NetC19_2
+Added Pin To Net: NetName=NetIC3_10 Pin=IC3-10
+Added Pin To Net: NetName=NetIC3_10 Pin=R17-2
+Added Net: Name=NetIC3_10
+Added Pin To Net: NetName=NetIC4_10 Pin=IC4-10
+Added Pin To Net: NetName=NetIC4_10 Pin=R20-2
+Added Net: Name=NetIC4_10
+Added Member To Class: ClassName=U_Power_Conversion_sheet Member=Component C19 *
+Added Member To Class: ClassName=U_Power_Conversion_sheet Member=Component C20 1uF
+Added Member To Class: ClassName=U_Power_Conversion_sheet Member=Component C21 1uF
+Added Member To Class: ClassName=U_Power_Conversion_sheet Member=Component C22 1uF
+Added Member To Class: ClassName=U_Power_Conversion_sheet Member=Component C23 1uF
+Added Member To Class: ClassName=U_Power_Conversion_sheet Member=Component IC4 TCKE812NA,RF
+Added Member To Class: ClassName=U_Power_Conversion_sheet Member=Component R17 36k
+Added Member To Class: ClassName=U_Power_Conversion_sheet Member=Component R20 36k

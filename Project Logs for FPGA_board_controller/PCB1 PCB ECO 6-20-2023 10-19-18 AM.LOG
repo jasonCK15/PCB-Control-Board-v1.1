@@ -1,0 +1,255 @@
+Change Component Comment : Designator=R8_1 Old Comment=1.5k New Comment=5.6k
+Change Component Comment : Designator=R8_2 Old Comment=1.5k New Comment=5.6k
+Change Component Comment : Designator=R8_3 Old Comment=1.5k New Comment=5.6k
+Change Component Comment : Designator=R8_4 Old Comment=1.5k New Comment=5.6k
+Change Component Comment : Designator=R8_5 Old Comment=1.5k New Comment=5.6k
+Change Component Comment : Designator=R8_6 Old Comment=1.5k New Comment=5.6k
+Change Component Comment : Designator=R8_7 Old Comment=1.5k New Comment=5.6k
+Change Component Comment : Designator=R8_8 Old Comment=1.5k New Comment=5.6k
+Change Component Comment : Designator=R11_1 Old Comment=10 New Comment=10k
+Change Component Comment : Designator=R11_2 Old Comment=10 New Comment=10k
+Change Component Comment : Designator=R11_3 Old Comment=10 New Comment=10k
+Change Component Comment : Designator=R11_4 Old Comment=10 New Comment=10k
+Change Component Comment : Designator=R11_5 Old Comment=10 New Comment=10k
+Change Component Comment : Designator=R11_6 Old Comment=10 New Comment=10k
+Change Component Comment : Designator=R11_7 Old Comment=10 New Comment=10k
+Change Component Comment : Designator=R11_8 Old Comment=10 New Comment=10k
+Change Component Comment : Designator=R9_1 Old Comment=560 New Comment=33k
+Change Component Comment : Designator=R9_2 Old Comment=560 New Comment=33k
+Change Component Comment : Designator=R9_3 Old Comment=560 New Comment=33k
+Change Component Comment : Designator=R9_4 Old Comment=560 New Comment=33k
+Change Component Comment : Designator=R9_5 Old Comment=560 New Comment=33k
+Change Component Comment : Designator=R9_6 Old Comment=560 New Comment=33k
+Change Component Comment : Designator=R9_7 Old Comment=560 New Comment=33k
+Change Component Comment : Designator=R9_8 Old Comment=560 New Comment=33k
+Change Component Comment : Designator=R10_1 Old Comment=820k New Comment=68k
+Change Component Comment : Designator=R10_2 Old Comment=820k New Comment=68k
+Change Component Comment : Designator=R10_3 Old Comment=820k New Comment=68k
+Change Component Comment : Designator=R10_4 Old Comment=820k New Comment=68k
+Change Component Comment : Designator=R10_5 Old Comment=820k New Comment=68k
+Change Component Comment : Designator=R10_6 Old Comment=820k New Comment=68k
+Change Component Comment : Designator=R10_7 Old Comment=820k New Comment=68k
+Change Component Comment : Designator=R10_8 Old Comment=820k New Comment=68k
+Change Component Designator: OldDesignator=6-10V In NewDesignator=Con
+Added Component: Designator=R?_1(R0603)
+Add component (AddParameter): Name = "value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?_1(R0603)
+Add component (AddParameter): Name = "value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?_1(R0603)
+Add component (AddParameter): Name = "value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?_2(R0603)
+Add component (AddParameter): Name = "value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?_2(R0603)
+Add component (AddParameter): Name = "value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?_2(R0603)
+Add component (AddParameter): Name = "value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?_3(R0603)
+Add component (AddParameter): Name = "value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?_3(R0603)
+Add component (AddParameter): Name = "value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?_3(R0603)
+Add component (AddParameter): Name = "value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?_4(R0603)
+Add component (AddParameter): Name = "value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?_4(R0603)
+Add component (AddParameter): Name = "value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?_4(R0603)
+Add component (AddParameter): Name = "value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?_5(R0603)
+Add component (AddParameter): Name = "value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?_5(R0603)
+Add component (AddParameter): Name = "value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?_5(R0603)
+Add component (AddParameter): Name = "value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?_6(R0603)
+Add component (AddParameter): Name = "value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?_6(R0603)
+Add component (AddParameter): Name = "value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?_6(R0603)
+Add component (AddParameter): Name = "value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?_7(R0603)
+Add component (AddParameter): Name = "value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?_7(R0603)
+Add component (AddParameter): Name = "value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?_7(R0603)
+Add component (AddParameter): Name = "value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?_8(R0603)
+Add component (AddParameter): Name = "value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?_8(R0603)
+Add component (AddParameter): Name = "value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?_8(R0603)
+Add component (AddParameter): Name = "value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND_1 Pin=C8-1
+Added Pin To Net: NetName=GND_1 Pin=C9-1
+Added Pin To Net: NetName=GND_1 Pin=IC1-11
+Added Pin To Net: NetName=GND_1 Pin=IC1-13
+Added Pin To Net: NetName=GND_1 Pin=IC1-14
+Added Pin To Net: NetName=5V5 Pin=R?_1-2
+Added Pin To Net: NetName=5V5 Pin=R?_1-2
+Added Pin To Net: NetName=5V5 Pin=R?_1-2
+Added Pin To Net: NetName=5V5 Pin=R?_2-2
+Added Pin To Net: NetName=5V5 Pin=R?_2-2
+Added Pin To Net: NetName=5V5 Pin=R?_2-2
+Added Pin To Net: NetName=5V5 Pin=R?_3-2
+Added Pin To Net: NetName=5V5 Pin=R?_3-2
+Added Pin To Net: NetName=5V5 Pin=R?_3-2
+Added Pin To Net: NetName=5V5 Pin=R?_4-2
+Added Pin To Net: NetName=5V5 Pin=R?_4-2
+Added Pin To Net: NetName=5V5 Pin=R?_4-2
+Added Pin To Net: NetName=5V5 Pin=R?_5-2
+Added Pin To Net: NetName=5V5 Pin=R?_5-2
+Added Pin To Net: NetName=5V5 Pin=R?_5-2
+Added Pin To Net: NetName=5V5 Pin=R?_6-2
+Added Pin To Net: NetName=5V5 Pin=R?_6-2
+Added Pin To Net: NetName=5V5 Pin=R?_6-2
+Added Pin To Net: NetName=5V5 Pin=R?_7-2
+Added Pin To Net: NetName=5V5 Pin=R?_7-2
+Added Pin To Net: NetName=5V5 Pin=R?_7-2
+Added Pin To Net: NetName=5V5 Pin=R?_8-2
+Added Pin To Net: NetName=5V5 Pin=R?_8-2
+Added Pin To Net: NetName=5V5 Pin=R?_8-2
+Added Pin To Net: NetName=NetPS1_1_1 Pin=PS1_1-1
+Added Pin To Net: NetName=NetPS1_1_1 Pin=R?_1-1
+Added Net: Name=NetPS1_1_1
+Added Pin To Net: NetName=NetPS1_1_8 Pin=PS1_1-8
+Added Pin To Net: NetName=NetPS1_1_8 Pin=R?_1-1
+Added Net: Name=NetPS1_1_8
+Added Pin To Net: NetName=NetPS1_1_12 Pin=PS1_1-12
+Added Pin To Net: NetName=NetPS1_1_12 Pin=R?_1-1
+Added Net: Name=NetPS1_1_12
+Added Pin To Net: NetName=NetPS1_2_1 Pin=PS1_2-1
+Added Pin To Net: NetName=NetPS1_2_1 Pin=R?_2-1
+Added Net: Name=NetPS1_2_1
+Added Pin To Net: NetName=NetPS1_2_8 Pin=PS1_2-8
+Added Pin To Net: NetName=NetPS1_2_8 Pin=R?_2-1
+Added Net: Name=NetPS1_2_8
+Added Pin To Net: NetName=NetPS1_2_12 Pin=PS1_2-12
+Added Pin To Net: NetName=NetPS1_2_12 Pin=R?_2-1
+Added Net: Name=NetPS1_2_12
+Added Pin To Net: NetName=NetPS1_3_1 Pin=PS1_3-1
+Added Pin To Net: NetName=NetPS1_3_1 Pin=R?_3-1
+Added Net: Name=NetPS1_3_1
+Added Pin To Net: NetName=NetPS1_3_8 Pin=PS1_3-8
+Added Pin To Net: NetName=NetPS1_3_8 Pin=R?_3-1
+Added Net: Name=NetPS1_3_8
+Added Pin To Net: NetName=NetPS1_3_12 Pin=PS1_3-12
+Added Pin To Net: NetName=NetPS1_3_12 Pin=R?_3-1
+Added Net: Name=NetPS1_3_12
+Added Pin To Net: NetName=NetPS1_4_1 Pin=PS1_4-1
+Added Pin To Net: NetName=NetPS1_4_1 Pin=R?_4-1
+Added Net: Name=NetPS1_4_1
+Added Pin To Net: NetName=NetPS1_4_8 Pin=PS1_4-8
+Added Pin To Net: NetName=NetPS1_4_8 Pin=R?_4-1
+Added Net: Name=NetPS1_4_8
+Added Pin To Net: NetName=NetPS1_4_12 Pin=PS1_4-12
+Added Pin To Net: NetName=NetPS1_4_12 Pin=R?_4-1
+Added Net: Name=NetPS1_4_12
+Added Pin To Net: NetName=NetPS1_5_1 Pin=PS1_5-1
+Added Pin To Net: NetName=NetPS1_5_1 Pin=R?_5-1
+Added Net: Name=NetPS1_5_1
+Added Pin To Net: NetName=NetPS1_5_8 Pin=PS1_5-8
+Added Pin To Net: NetName=NetPS1_5_8 Pin=R?_5-1
+Added Net: Name=NetPS1_5_8
+Added Pin To Net: NetName=NetPS1_5_12 Pin=PS1_5-12
+Added Pin To Net: NetName=NetPS1_5_12 Pin=R?_5-1
+Added Net: Name=NetPS1_5_12
+Added Pin To Net: NetName=NetPS1_6_1 Pin=PS1_6-1
+Added Pin To Net: NetName=NetPS1_6_1 Pin=R?_6-1
+Added Net: Name=NetPS1_6_1
+Added Pin To Net: NetName=NetPS1_6_8 Pin=PS1_6-8
+Added Pin To Net: NetName=NetPS1_6_8 Pin=R?_6-1
+Added Net: Name=NetPS1_6_8
+Added Pin To Net: NetName=NetPS1_6_12 Pin=PS1_6-12
+Added Pin To Net: NetName=NetPS1_6_12 Pin=R?_6-1
+Added Net: Name=NetPS1_6_12
+Added Pin To Net: NetName=NetPS1_7_1 Pin=PS1_7-1
+Added Pin To Net: NetName=NetPS1_7_1 Pin=R?_7-1
+Added Net: Name=NetPS1_7_1
+Added Pin To Net: NetName=NetPS1_7_8 Pin=PS1_7-8
+Added Pin To Net: NetName=NetPS1_7_8 Pin=R?_7-1
+Added Net: Name=NetPS1_7_8
+Added Pin To Net: NetName=NetPS1_7_12 Pin=PS1_7-12
+Added Pin To Net: NetName=NetPS1_7_12 Pin=R?_7-1
+Added Net: Name=NetPS1_7_12
+Added Pin To Net: NetName=NetPS1_8_1 Pin=PS1_8-1
+Added Pin To Net: NetName=NetPS1_8_1 Pin=R?_8-1
+Added Net: Name=NetPS1_8_1
+Added Pin To Net: NetName=NetPS1_8_8 Pin=PS1_8-8
+Added Pin To Net: NetName=NetPS1_8_8 Pin=R?_8-1
+Added Net: Name=NetPS1_8_8
+Added Pin To Net: NetName=NetPS1_8_12 Pin=PS1_8-12
+Added Pin To Net: NetName=NetPS1_8_12 Pin=R?_8-1
+Added Net: Name=NetPS1_8_12
+Added Member To Class: ClassName=U_LDO4 Member=Component PS1_4 (PS1) LM27762DSSR
+Added Member To Class: ClassName=U_LDO1 Member=Component R?_1 (R?) 10k
+Added Member To Class: ClassName=U_LDO1 Member=Component R?_1 (R?) 10k
+Added Member To Class: ClassName=U_LDO1 Member=Component R?_1 (R?) 10k
+Added Member To Class: ClassName=U_LDO2 Member=Component R?_2 (R?) 10k
+Added Member To Class: ClassName=U_LDO2 Member=Component R?_2 (R?) 10k
+Added Member To Class: ClassName=U_LDO2 Member=Component R?_2 (R?) 10k
+Added Member To Class: ClassName=U_LDO3 Member=Component R?_3 (R?) 10k
+Added Member To Class: ClassName=U_LDO3 Member=Component R?_3 (R?) 10k
+Added Member To Class: ClassName=U_LDO3 Member=Component R?_3 (R?) 10k
+Added Member To Class: ClassName=U_LDO4 Member=Component R?_4 (R?) 10k
+Added Member To Class: ClassName=U_LDO4 Member=Component R?_4 (R?) 10k
+Added Member To Class: ClassName=U_LDO4 Member=Component R?_4 (R?) 10k
+Added Member To Class: ClassName=U_LDO5 Member=Component R?_5 (R?) 10k
+Added Member To Class: ClassName=U_LDO5 Member=Component R?_5 (R?) 10k
+Added Member To Class: ClassName=U_LDO5 Member=Component R?_5 (R?) 10k
+Added Member To Class: ClassName=U_LDO6 Member=Component R?_6 (R?) 10k
+Added Member To Class: ClassName=U_LDO6 Member=Component R?_6 (R?) 10k
+Added Member To Class: ClassName=U_LDO6 Member=Component R?_6 (R?) 10k
+Added Member To Class: ClassName=U_LDO7 Member=Component R?_7 (R?) 10k
+Added Member To Class: ClassName=U_LDO7 Member=Component R?_7 (R?) 10k
+Added Member To Class: ClassName=U_LDO7 Member=Component R?_7 (R?) 10k
+Added Member To Class: ClassName=U_LDO8 Member=Component R?_8 (R?) 10k
+Added Member To Class: ClassName=U_LDO8 Member=Component R?_8 (R?) 10k
+Added Member To Class: ClassName=U_LDO8 Member=Component R?_8 (R?) 10k
+Added Room: Name=U_LDO1
+Added Room: Name=U_LDO2
+Added Room: Name=U_LDO3
+Added Room: Name=U_LDO4
+Added Room: Name=U_LDO5
+Added Room: Name=U_LDO6
+Added Room: Name=U_LDO7
+Added Room: Name=U_LDO8
+Added Room: Name=U_op-amp1
+Added Room: Name=U_op-amp2
+Added Room: Name=U_op-amp3
+Added Room: Name=U_op-amp4
+Added Room: Name=U_op-amp5
+Added Room: Name=U_op-amp6
+Added Room: Name=U_op-amp7
+Added Room: Name=U_op-amp8
+Added Room: Name=U_op-amp9
+Added Room: Name=U_op-amp10
+Added Room: Name=U_op-amp11
+Added Room: Name=U_op-amp12
+Added Room: Name=U_op-amp13
+Added Room: Name=U_op-amp14
+Added Room: Name=U_op-amp15
+Added Room: Name=U_op-amp16
+Added Room: Name=U_op-amp17
+Added Room: Name=U_op-amp18
+Added Room: Name=U_op-amp19
+Added Room: Name=U_op-amp20
+Added Room: Name=U_op-amp21
+Added Room: Name=U_op-amp22
+Added Room: Name=U_op-amp23
+Added Room: Name=U_op-amp24
+Added Room: Name=U_op-amp25
+Added Room: Name=U_op-amp26
+Added Room: Name=U_op-amp27
+Added Room: Name=U_op-amp28
+Added Room: Name=U_op-amp29
+Added Room: Name=U_op-amp30
+Added Room: Name=U_op-amp31
+Added Room: Name=U_op-amp32
+Added Room: Name=U_op-amp33
+Added Room: Name=U_op-amp34
+Added Room: Name=U_op-amp35
+Added Room: Name=U_op-amp36
+Added Room: Name=U_op-amp37
+Added Room: Name=U_op-amp38
+Added Room: Name=U_op-amp39
+Added Room: Name=U_op-amp40

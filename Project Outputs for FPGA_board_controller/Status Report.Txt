@@ -1,0 +1,15 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [FPGA_board_controller.PrjPcb]
+   Generated File[PCB1-RoundHoles-Plated.TXT]
+   Generated File[PCB1-SlotHoles-Plated.TXT]
+   Generated File[PCB1-RoundHoles-Plated.TX1]
+   Generated File[PCB1-RoundHoles-Plated.TX2]
+   Generated File[PCB1.LDP]
+   Generated File[PCB1.DRR]
+
+
+Files Generated   : 6
+Documents Printed : 0
+
+Finished Output Generation At 5:48:32 pm On 10/7/2023

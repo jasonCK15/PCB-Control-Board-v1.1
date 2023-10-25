@@ -1,0 +1,40 @@
+Change Component Designator: OldDesignator=R?_1 NewDesignator=R17_1
+Change Component Designator: OldDesignator=R?_1 NewDesignator=R18_1
+Change Component Designator: OldDesignator=R?_1 NewDesignator=R19_1
+Change Component Designator: OldDesignator=R?_2 NewDesignator=R17_2
+Change Component Designator: OldDesignator=R?_2 NewDesignator=R18_2
+Change Component Designator: OldDesignator=R?_2 NewDesignator=R19_2
+Change Component Designator: OldDesignator=R?_3 NewDesignator=R17_3
+Change Component Designator: OldDesignator=R?_3 NewDesignator=R18_3
+Change Component Designator: OldDesignator=R?_3 NewDesignator=R19_3
+Change Component Designator: OldDesignator=R?_4 NewDesignator=R17_4
+Change Component Designator: OldDesignator=R?_4 NewDesignator=R18_4
+Change Component Designator: OldDesignator=R?_4 NewDesignator=R19_4
+Change Component Designator: OldDesignator=R?_5 NewDesignator=R17_5
+Change Component Designator: OldDesignator=R?_5 NewDesignator=R18_5
+Change Component Designator: OldDesignator=R?_5 NewDesignator=R19_5
+Change Component Designator: OldDesignator=R?_6 NewDesignator=R17_6
+Change Component Designator: OldDesignator=R?_6 NewDesignator=R18_6
+Change Component Designator: OldDesignator=R?_6 NewDesignator=R19_6
+Change Component Designator: OldDesignator=R?_7 NewDesignator=R17_7
+Change Component Designator: OldDesignator=R?_7 NewDesignator=R18_7
+Change Component Designator: OldDesignator=R?_7 NewDesignator=R19_7
+Change Component Designator: OldDesignator=R?_8 NewDesignator=R17_8
+Change Component Designator: OldDesignator=R?_8 NewDesignator=R18_8
+Change Component Designator: OldDesignator=R?_8 NewDesignator=R19_8
+Added Member To Class: ClassName=U_LDO2 Member=Component R17_2 (R17) 10k
+Added Member To Class: ClassName=U_LDO3 Member=Component R17_3 (R17) 10k
+Added Member To Class: ClassName=U_LDO4 Member=Component R17_4 (R17) 10k
+Added Member To Class: ClassName=U_LDO6 Member=Component R17_6 (R17) 10k
+Added Member To Class: ClassName=U_LDO7 Member=Component R17_7 (R17) 10k
+Added Member To Class: ClassName=U_LDO8 Member=Component R17_8 (R17) 10k
+Added Member To Class: ClassName=U_LDO1 Member=Component R18_1 (R18) 10k
+Added Member To Class: ClassName=U_LDO2 Member=Component R18_2 (R18) 10k
+Added Member To Class: ClassName=U_LDO3 Member=Component R18_3 (R18) 10k
+Added Member To Class: ClassName=U_LDO5 Member=Component R18_5 (R18) 10k
+Added Member To Class: ClassName=U_LDO6 Member=Component R18_6 (R18) 10k
+Added Member To Class: ClassName=U_LDO1 Member=Component R19_1 (R19) 10k
+Added Member To Class: ClassName=U_LDO4 Member=Component R19_4 (R19) 10k
+Added Member To Class: ClassName=U_LDO5 Member=Component R19_5 (R19) 10k
+Added Member To Class: ClassName=U_LDO7 Member=Component R19_7 (R19) 10k
+Added Member To Class: ClassName=U_LDO8 Member=Component R19_8 (R19) 10k
