@@ -40,6 +40,7 @@ $$VOUT=1.2V×(R1+R2)/R2$$
 
 ![image](https://github.com/jasonCK15/PCB-Control-Board-v1.1/assets/86227836/a2a99f98-b9f9-46a3-ae95-649aaaac19d1)
 
-**Reminder: As the previous testing, it is found that the C13 capacitance has to be 0.2uF for normal operation. The reason is that the charge-pump cannot be reached to the 5V voltage when it is using the higher capacitance in the C13(cfly) capacitor.**
+***Reminder: As the previous testing, it is found that the C13 capacitance has to be 0.2uF for normal operation. The reason is that the charge-pump cannot be reached to the 5V voltage when it is using the higher capacitance in the C13(cfly) capacitor.***
 
 
+### op-amp signal
