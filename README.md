@@ -11,7 +11,6 @@ This PCB is used to amplify the digital signal, which is generated from the FPGA
 For the circuit design of the board, it consists of three parts: 
  1. Power Conversion 
  2. op-amp signal 
- 3. Traces routing
 
 
 ### Power Conversion
@@ -49,5 +48,3 @@ The op-amp circuit is used as a comparator circuit, which IO's output voltage is
 
 ![image](https://github.com/jasonCK15/PCB-Control-Board-v1.1/assets/86227836/96ed053f-181c-4bcc-8847-9b61d34aed04)
 
-
-### Traces Routing
