@@ -44,3 +44,10 @@ $$VOUT=1.2V×(R1+R2)/R2$$
 
 
 ### op-amp signal
+
+The op-amp circuit is used as a comparator circuit, which IO's output voltage is smaller than the 1V, the output voltage is zero on the output side. 
+
+![image](https://github.com/jasonCK15/PCB-Control-Board-v1.1/assets/86227836/96ed053f-181c-4bcc-8847-9b61d34aed04)
+
+
+### Traces Routing
