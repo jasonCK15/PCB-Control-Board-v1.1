@@ -48,6 +48,11 @@ The op-amp circuit is used as a comparator circuit, which IO's output voltage is
 
 ![image](https://github.com/jasonCK15/PCB-Control-Board-v1.1/assets/86227836/96ed053f-181c-4bcc-8847-9b61d34aed04)
 
+The simplified signal diagram is shown below:
+
+![image](https://github.com/jasonCK15/PCB-Control-Board-v1.1/assets/86227836/c5cde211-8cd8-43f8-8b5b-e304d7ccf828)
+
+
 
 ### Reference Links ###
 
