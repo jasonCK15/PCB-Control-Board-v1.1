@@ -8,7 +8,7 @@ This PCB is used to amplify the digital signal, which is generated from the FPGA
 
 ## Design 
 
-For the circuit design of the board, it consists of three parts: 
+For the circuit design of the board, it consists of two parts: 
  1. Power Conversion 
  2. op-amp signal 
 
